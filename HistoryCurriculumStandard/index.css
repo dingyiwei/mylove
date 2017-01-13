@@ -35,3 +35,18 @@
 #img3{
     width: 30%;
 }
+
+.images{
+    width: 30%;
+}
+
+.image{
+    margin: auto;
+    width: 70%;
+}
+
+.comment{
+    margin:auto;
+    text-align: center;
+    color: #555555;
+}
