@@ -9,10 +9,14 @@
     margin-right: 25px;
 }
 
+.context{
+    margin: auto 10px auto 10px;
+}
+
 .subtitle{
     background: url("images/subtitle.jpg") no-repeat;
     color: #ffffff;
-    margin: 60px auto auto auto;
+    margin: 40px auto 20px auto;
 }
 
 .subtitle img{
@@ -38,15 +42,19 @@
 
 .images{
     width: 30%;
+    margin: auto;
 }
 
 .image{
-    margin: auto;
+    text-align: center;
+}
+
+.image img{
     width: 70%;
 }
 
 .comment{
     margin:auto;
     text-align: center;
-    color: #555555;
+    color: #888888;
 }
