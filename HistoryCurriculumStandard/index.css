@@ -14,3 +14,10 @@ body{
     margin-top: -200px;
     margin-right: 25px;
 }
+
+.subtitle{
+    background: url("images/subtitle.jpg");
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+}

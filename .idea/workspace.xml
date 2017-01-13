@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f37a509-71f5-407c-bad0-84ece7f150fb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HistoryCurriculumStandard/index.css" afterPath="$PROJECT_DIR$/HistoryCurriculumStandard/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HistoryCurriculumStandard/index.html" afterPath="$PROJECT_DIR$/HistoryCurriculumStandard/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="108">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -48,8 +49,8 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="324">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -256,7 +257,7 @@
       <option name="presentableId" value="Default" />
       <updated>1481795451151</updated>
       <workItem from="1481795454467" duration="434000" />
-      <workItem from="1484320077572" duration="11540000" />
+      <workItem from="1484320077572" duration="12703000" />
     </task>
     <task id="LOCAL-00001" summary="Fedora Update - HappyBirthday20161214">
       <created>1481795779405</created>
@@ -269,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11974000" />
+    <option name="totallyTimeSpent" value="13137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -360,16 +361,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="324">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="108">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding />
         </state>
       </provider>
