@@ -5,10 +5,12 @@ body{
 
 
 .frame-bottom{
-
+    margin-top: -200px;
+    margin-right: auto;
 }
 
 .content{
-    margin-left: 20px;
+    margin-left: 25px;
     margin-top: -200px;
+    margin-right: 25px;
 }
