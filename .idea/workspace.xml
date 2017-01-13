@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f37a509-71f5-407c-bad0-84ece7f150fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HistoryCurriculumStandard/index.html" afterPath="$PROJECT_DIR$/HistoryCurriculumStandard/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HistoryCurriculumStandard/images/frame.png" afterPath="$PROJECT_DIR$/HistoryCurriculumStandard/images/frame.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HistoryCurriculumStandard/images/frame2.png" afterPath="$PROJECT_DIR$/HistoryCurriculumStandard/images/frame2.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="72">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -256,7 +257,7 @@
       <option name="presentableId" value="Default" />
       <updated>1481795451151</updated>
       <workItem from="1481795454467" duration="434000" />
-      <workItem from="1484320077572" duration="9487000" />
+      <workItem from="1484320077572" duration="10089000" />
     </task>
     <task id="LOCAL-00001" summary="Fedora Update - HappyBirthday20161214">
       <created>1481795779405</created>
@@ -269,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9921000" />
+    <option name="totallyTimeSpent" value="10523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -368,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="72">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
