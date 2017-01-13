@@ -49,8 +49,8 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="230">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -258,7 +258,7 @@
       <updated>1481795451151</updated>
       <workItem from="1481795454467" duration="434000" />
       <workItem from="1484320077572" duration="13658000" />
-      <workItem from="1484338542749" duration="575000" />
+      <workItem from="1484338542749" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="Fedora Update - HappyBirthday20161214">
       <created>1481795779405</created>
@@ -271,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14667000" />
+    <option name="totallyTimeSpent" value="15193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -383,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HistoryCurriculumStandard/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="230">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding />
         </state>
       </provider>

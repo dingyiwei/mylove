@@ -7,6 +7,11 @@
     margin-left: 25px;
     margin-top: -200px;
     margin-right: 25px;
+    overflow: hidden;
+}
+
+.content p{
+    clear: both;
 }
 
 .subtitle{
@@ -19,5 +24,13 @@
 }
 
 #img1{
+    width: 30%;
+}
+
+#img2{
+    width: 30%;
+}
+
+#img3{
     width: 30%;
 }
