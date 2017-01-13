@@ -1,6 +1,6 @@
 .frame-bottom{
     margin-top: -200px;
-    margin-right: auto;
+    margin-right: 0;
 }
 
 .content{
@@ -10,10 +10,10 @@
 }
 
 .subtitle{
-    background: url("images/subtitle.jpg");
+    background: url("images/subtitle.jpg") no-repeat;
     color: #ffffff;
     text-align: center;
     margin: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
