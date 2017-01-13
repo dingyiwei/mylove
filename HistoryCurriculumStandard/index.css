@@ -1,6 +1,6 @@
 .frame-bottom{
     margin-top: -200px;
-    margin-right: 0;
+    float: right;
 }
 
 .content{
@@ -16,4 +16,8 @@
     margin: auto;
     padding-top: 1px;
     padding-bottom: 1px;
+}
+
+#img1{
+    width: 30%;
 }
