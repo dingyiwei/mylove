@@ -12,9 +12,16 @@
 .subtitle{
     background: url("images/subtitle.jpg") no-repeat;
     color: #ffffff;
-    text-align: center;
     margin: 60px auto auto auto;
-    height: 44px;
+}
+
+.subtitle img{
+    width: 100%;
+}
+
+.subtitle h3{
+    text-align: center;
+    margin-top: -43px;
 }
 
 #img1{
