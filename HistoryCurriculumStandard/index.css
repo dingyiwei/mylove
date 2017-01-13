@@ -7,20 +7,16 @@
     margin-left: 25px;
     margin-top: -200px;
     margin-right: 25px;
-    overflow: hidden;
-}
-
-.content p{
-    clear: both;
 }
 
 .subtitle{
     background: url("images/subtitle.jpg") no-repeat;
     color: #ffffff;
     text-align: center;
-    margin: auto;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    margin: 60px auto auto auto;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    height: 44px;
 }
 
 #img1{
